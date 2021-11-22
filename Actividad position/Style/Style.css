@@ -1,0 +1,26 @@
+
+
+body{
+    background-color: #C9BA98;
+}
+div{
+    background-color: rgb(236, 155, 97);
+}
+img{
+    height: 200px;
+    position: relative;
+    left: 500px;
+    background-color: gray;
+}
+.a{
+position: fixed;
+border: brown 20px solid;
+background-color: brown;
+left: 1300px;
+top: 650px;
+color: white;
+}
+p{
+    margin: 10px 150px;
+}
+
